@@ -52,7 +52,15 @@ li {
 
 .center {
   display: block;
-  margin-left: 602px;
+  margin-left: 590px;
   margin-right: 555px;
   width: 20%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.article:hover {
+    color: deepskyblue;
 }
